@@ -1,0 +1,51 @@
+<quests>
+	<quest id="1">
+		<title>quest.first.title</title>
+		<objective>
+			<secuentialObjective>
+				<description>quest.first.objective.first.title</description>
+				<showTitle>true</showTitle>
+				<showCompleted>true</showCompleted>
+				<objectives>
+					<basicObjective>
+						<description>quest.first.objective.first.objective.first.title</description>
+						<descriptionCompleted>quest.first.objective.first.objective.first.complete</descriptionCompleted>
+						<indicators>
+							<indicator>prueba</indicator>
+						</indicators>
+					</basicObjective>
+					<basicObjective>
+						<description>quest.first.objective.first.objective.second.title</description>
+						<indicators>
+							<indicator>OI2</indicator>
+						</indicators>
+					</basicObjective>
+				</objectives>
+			</secuentialObjective>
+		</objective>
+	</quest>
+	<quest id="2">
+		<title>quest.second.title</title>
+		<objective>
+			<parallelObjective>
+				<description>quest.second.objective.first.title</description>
+				<showTitle>true</showTitle>
+				<showCompleted>false</showCompleted>
+				<objectives>
+					<basicObjective>
+						<description>quest.second.objective.first.objective.first.title</description>
+						<indicators>
+							<indicator>OI3</indicator>
+						</indicators>
+					</basicObjective>
+					<basicObjective>
+						<description>quest.second.objective.first.objective.second.title</description>
+						<indicators>
+							<indicator>OI4</indicator>
+						</indicators>
+					</basicObjective>
+				</objectives>
+			</parallelObjective>
+		</objective>
+	</quest>
+</quests>

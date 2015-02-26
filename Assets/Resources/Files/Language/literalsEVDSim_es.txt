@@ -1,0 +1,96 @@
+#Primera Quest
+1.title:Introduccion
+1.1.title:Habla con la enfermera
+1.1.message:Hablar
+1.1.chat:Bienvenido a esta simulacion de uso de Equipos de Proteccion Personal. En la siguiente sala se le proporcionara mas instrucciones.
+
+#Segunda Quest
+2.title:Prepara el Equipo de Proteccion Personal
+2.1.title:Titulo invisible
+2.1.1.title:Accede a la siguiente sala
+2.1.1.message:Mensaje invisible
+2.1.2.title:Habla con la enfermera
+2.1.2.message:Hablar
+2.1.2.chat:Vamos a comenzar obteniendo las piezas de equipamiento necesarias para prepararnos. En esta sala podras encontrar todo lo necesario.
+2.1.3.title:Consigue las piezas de equipamiento
+2.1.3.1.title:1 Mascara PAPR
+2.1.3.1.message:Coger Mascara PAPR
+2.1.3.2.title:1 Traje de proteccion
+2.1.3.2.message:Coger traje de proteccion
+2.1.3.3.title:2 Pares de guantes de nitrilo
+2.1.3.3.message:Coger guantes de nitrilo
+2.1.3.4.title:1 Par de botas impermeables
+2.1.3.4.message:Coger botas impermeables
+2.1.3.5.title:1 Delantal frontal
+2.1.3.5.message:Coger delantal frontal
+
+#Tercera Quest
+3.title:Ponte el Equipo de Proteccion Personal
+3.1.title:Titulo invisible
+3.1.1.title:Habla con la enfermera
+3.1.1.chat:A continuacion vamos a ponernos el equipamiento. Al ponerse el equipamiento es tan importante el orden seguido como el cuidado y atencion prestados.
+3.1.1.message:Hablar
+3.1.2.title:Sigue los pasos indicados
+3.1.2.1.title:Inspecciona el EPP
+3.1.2.1.message:Inspeccionar equipamiento
+3.1.2.2.title:Lavate las manos con ABHR
+3.1.2.2.message:Desinfectar manos
+3.1.2.3.title:Ponte el primer par de guantes
+3.1.2.3.message:Equipar guantes
+3.1.2.4.title:Ponte las botas
+3.1.2.4.message:Equipar botas
+3.1.2.5.title:Ponte el traje de proteccion
+3.1.2.5.message:Equipar traje de proteccion
+3.1.2.6.title:Ponte el segundo par de guantes
+3.1.2.6.message:Equipar guantes
+3.1.2.7.title:Ponte la mascara PAPR
+3.1.2.7.message:Equipar mascara PAPR
+3.1.2.8.title:Ponte el delantal frontal
+3.1.2.8.message:Equipar delantal frontal
+3.1.2.9.title:Desinfecta los guantes con ABHR
+3.1.2.9.message:Desinfectar guantes
+
+#Cuarta Quest
+4.title:Quitate el Equipo de Proteccion Personal
+4.1.title:Titulo invisible
+4.1.1.title:Accede al area de retirada de traje
+4.1.1.1.title:Abre la puerta
+4.1.1.1.message:Mensaje invisible
+4.1.1.2.title:Accede a la siguiente sala
+4.1.1.2.message:Mensaje invisible
+4.1.2.title:Habla con la enfermera
+4.1.2.message:Hablar
+4.1.3.title:Sigue los pasos indicados
+4.1.3.1.title:Inspecciona el EPP
+4.1.3.1.message:Inspeccionar equipamiento
+4.1.3.2.title:Desinfecta los guantes exteriores
+4.1.3.2.message:Desinfectar guantes
+4.1.3.3.title:Quitate el delantal frontal
+4.1.3.3.message:Quitarse delantal
+4.1.3.4.title:Inspecciona el equipo
+4.1.3.4.message:Inspeccionar equipamiento
+4.1.3.5.title:Quitate los guantes exteriores
+4.1.3.5.message:Quitarse guantes
+4.1.3.6.title:Desinfecta los guantes interiores
+4.1.3.6.message:Desinfectar guantes
+4.1.3.7.title:Quitate la mascara PAPR
+4.1.3.7.message:Quitarse mascara PAPR
+4.1.3.8.title:Quitate el traje de proteccion
+4.1.3.8.message:Quitarse traje de proteccion
+4.1.3.9.title:Desinfecta los guantes interiores
+4.1.3.9.message:Desinfectar guantes
+4.1.3.10.title:Quitate las botas
+4.1.3.10.message:Quitarse botas
+4.1.3.11.title:Quitate los guantes interiores
+4.1.3.11.message:Quitarse guantes
+4.1.3.12.title:Lavate las manos
+4.1.3.12.message:Lavar manos
+
+#Quinta Quest
+5.title:Conclusion
+5.1.title:Habla con la enfermera
+5.1.message:Hablar
+5.1.chat:Enhorabuena! Has logrado completar esta simulacion con exito.
+
+#End
+exit.success.message:Ha terminado la simulacion con exito! Pulse Esc para volver al menu principal.

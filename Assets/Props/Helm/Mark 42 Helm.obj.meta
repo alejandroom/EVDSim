@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 24a299e3a76224849aed85123c623fa9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mark_42_Helm_Helm Hals
+    100004: Mark_42_Helm_Helm Helm1
+    100006: Mark_42_Helm_Helm Kinn
+    100008: Mark_42_Helm_Helm Teile
+    100010: Mark_42_Helm_Maske Oben
+    100012: Mark_42_Helm_Maske Oben Augen
+    100014: Mark_42_Helm_Maske Oben Glas
+    100016: Mark_42_Helm_Maske Unten
+    100018: Standsockel_Schild
+    100020: Standsockel_Sockel
+    100022: Standsockel_Stand
+    400000: //RootNode
+    400002: Mark_42_Helm_Helm Hals
+    400004: Mark_42_Helm_Helm Helm1
+    400006: Mark_42_Helm_Helm Kinn
+    400008: Mark_42_Helm_Helm Teile
+    400010: Mark_42_Helm_Maske Oben
+    400012: Mark_42_Helm_Maske Oben Augen
+    400014: Mark_42_Helm_Maske Oben Glas
+    400016: Mark_42_Helm_Maske Unten
+    400018: Standsockel_Schild
+    400020: Standsockel_Sockel
+    400022: Standsockel_Stand
+    2300000: Mark_42_Helm_Helm Hals
+    2300002: Mark_42_Helm_Helm Helm1
+    2300004: Mark_42_Helm_Helm Kinn
+    2300006: Mark_42_Helm_Helm Teile
+    2300008: Mark_42_Helm_Maske Oben
+    2300010: Mark_42_Helm_Maske Oben Augen
+    2300012: Mark_42_Helm_Maske Oben Glas
+    2300014: Mark_42_Helm_Maske Unten
+    2300016: Standsockel_Schild
+    2300018: Standsockel_Sockel
+    2300020: Standsockel_Stand
+    3300000: Mark_42_Helm_Helm Hals
+    3300002: Mark_42_Helm_Helm Helm1
+    3300004: Mark_42_Helm_Helm Kinn
+    3300006: Mark_42_Helm_Helm Teile
+    3300008: Mark_42_Helm_Maske Oben
+    3300010: Mark_42_Helm_Maske Oben Augen
+    3300012: Mark_42_Helm_Maske Oben Glas
+    3300014: Mark_42_Helm_Maske Unten
+    3300016: Standsockel_Schild
+    3300018: Standsockel_Sockel
+    3300020: Standsockel_Stand
+    4300000: Mark_42_Helm_Helm Hals
+    4300002: Mark_42_Helm_Helm Helm1
+    4300004: Mark_42_Helm_Helm Kinn
+    4300006: Mark_42_Helm_Helm Teile
+    4300008: Mark_42_Helm_Maske Oben
+    4300010: Mark_42_Helm_Maske Oben Augen
+    4300012: Mark_42_Helm_Maske Oben Glas
+    4300014: Mark_42_Helm_Maske Unten
+    4300016: Standsockel_Schild
+    4300018: Standsockel_Sockel_MeshPart0
+    4300020: Standsockel_Stand
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

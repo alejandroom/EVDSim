@@ -1,0 +1,11 @@
+quest.first.title:First Quest
+quest.first.objective.first.title:Testing secuential objectives
+quest.first.objective.first.objective.first.title:Open the door
+quest.first.objective.first.objective.first.complete:Door opened!
+quest.first.objective.first.objective.second.title:Access marker 2
+quest.second.title:Second Quest
+quest.second.objective.first.title:Testing parallel objectives
+quest.second.objective.first.objective.first.title:Access marker 3
+quest.second.objective.first.objective.second.title:Access marker 4
+
+quest.first.objective.second.popup.text: Do you really want to activate this marker?

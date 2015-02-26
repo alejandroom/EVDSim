@@ -1,0 +1,96 @@
+#Primera Quest
+1.title:Introduction
+1.1.title:Talk to the nurse
+1.1.message:Talk
+1.1.chat:Welcome to this simulation of use of Personal Protective Equipment. XXX at the next room will provide further instructions.
+
+#Segunda Quest
+2.title:Prepare the Personal Protective Equipment
+2.1.title:Invisible Title
+2.1.1.title:Access the next room
+2.1.1.message:Mensaje invisible
+2.1.2.title:Talk to the nurse
+2.1.2.message:Talk
+2.1.2.chat:You will find in this room all the necessary equipment.
+2.1.3.title:Get the pieces of equipment
+2.1.3.1.title:1 PAPR Mask
+2.1.3.1.message:Pick up PAPR
+2.1.3.2.title:1 Coverall
+2.1.3.2.message:Pick up coverall
+2.1.3.3.title:2 Pairs of nitrile gloves
+2.1.3.3.message:Pick up nitrile gloves
+2.1.3.4.title:1 Pair of impermeable boots
+2.1.3.4.message:Pick up impermeable boots
+2.1.3.5.title:1 Impermeable apron
+2.1.3.5.message:Pick up impermeable apron 
+
+#Tercera Quest
+3.title:Donning the Personal Protective Equipment
+3.1.title:Titulo invisible
+3.1.1.title:Talk to the nurse
+3.1.1.chat:The order is as importante as the care and attention provided.
+3.1.1.message:Talk
+3.1.2.title:Follow the stablished steps
+3.1.2.1.title:Inspect the PPE
+3.1.2.1.message:Inspect equipment
+3.1.2.2.title:Perform Hand Hygiene with ABHR
+3.1.2.2.message:Perform hand hygiene
+3.1.2.3.title:Put on Inner Gloves
+3.1.2.3.message:Put on gloves
+3.1.2.4.title:Put on Boots
+3.1.2.4.message:Put on boots
+3.1.2.5.title:Put on Coverall
+3.1.2.5.message:Put on coverall
+3.1.2.6.title:Put on outer gloves
+3.1.2.6.message:Put on outer gloves
+3.1.2.7.title:Put on Respirator
+3.1.2.7.message:Put on PAPR
+3.1.2.8.title:Put on Outer Apron
+3.1.2.8.message:Put on outer apron
+3.1.2.9.title:Disinfect Outer Gloves
+3.1.2.9.message:Disinfect outer gloves
+
+#Cuarta Quest
+4.title:Doffing the Personal Protective Equipment
+4.1.title:Titulo invisible
+4.1.1.title:Access the removal area
+4.1.1.1.title:Open the door
+4.1.1.1.message:Mensaje invisible
+4.1.1.2.title:Access the next room
+4.1.1.2.message:Mensaje invisible
+4.1.2.title:Talk to the nurse
+4.1.2.message:Talk
+4.1.3.title:Follow the stablished steps
+4.1.3.1.title:Inspect the PPE
+4.1.3.1.message:Enspect PPE
+4.1.3.2.title:Disinfect Outer Gloves
+4.1.3.2.message:Disinfect gloves
+4.1.3.3.title:Remove Outer Apron
+4.1.3.3.message:Remove apron
+4.1.3.4.title:Inspect the Equipment
+4.1.3.4.message:Inspect equipment
+4.1.3.5.title:Remove Outer Gloves
+4.1.3.5.message:Remove outer gloves
+4.1.3.6.title:Disinfect Inner Gloves
+4.1.3.6.message:Disinfect globes
+4.1.3.7.title:Remove PAPR
+4.1.3.7.message:Remove PAPR
+4.1.3.8.title:Remove Coverall
+4.1.3.8.message:Remove coverall
+4.1.3.9.title:Disinfect Inner Gloves
+4.1.3.9.message:Disinfect gloves
+4.1.3.10.title:Remove boots
+4.1.3.10.message:Remove boots
+4.1.3.11.title:Remove Inner Gloves
+4.1.3.11.message:Remove gloves
+4.1.3.12.title:Perform Hand Hygiene with ABHR
+4.1.3.12.message:Perform hand hygiene
+
+#Quinta Quest
+5.title:Conclusion
+5.1.title:Talk to the nurse
+5.1.message:Talk
+5.1.chat:Congratulations! You have successfully ended this simulation.
+
+#End
+exit.success.message:Simulation ended successfully! Press Esc to return to the Main Menu.

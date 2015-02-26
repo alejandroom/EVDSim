@@ -1,0 +1,11 @@
+quest.first.title:Primera Quest
+quest.first.objective.first.title:Probar objetivos secuenciales
+quest.first.objective.first.objective.first.title:Abre la puerta
+quest.first.objective.first.objective.first.complete:Puerta abierta!
+quest.first.objective.first.objective.second.title:Accede al marcador 2
+quest.second.title:Segunda Quest
+quest.second.objective.first.title:Probar objetivos paralelos
+quest.second.objective.first.objective.first.title:Accede al marcador 3
+quest.second.objective.first.objective.second.title:Accede al marcador 4
+
+quest.first.objective.second.popup.text:Desea activar este marcador?
